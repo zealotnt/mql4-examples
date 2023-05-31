@@ -3,6 +3,7 @@
 //|                           Copyright 2022, Hung_tthanh@yahoo.com. |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
+// https://www.mql5.com/en/code/41986
 #property copyright "Copyright 2022, Hung_tthanh@yahoo.com."
 #property link      "https://www.mql5.com"
 #property version   "1.00"
