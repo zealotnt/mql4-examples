@@ -7,6 +7,7 @@
 #property link      "https://www.mql5.com/en/users/sahilbagdi"
 #property version   "1.00"
 #property strict
+// https://www.mql5.com/en/code/38465
 //+------------------------------------------------------------------+
 //| Script program start function                                    |
 //+------------------------------------------------------------------+
